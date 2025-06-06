@@ -9,8 +9,7 @@ Currently pursuing an MSc in Advanced Electronics and Electrical Engineering at 
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kreena.desai30@gmail.com) 
 
 # 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white) ![MATLAB Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Matlab_Logo.png/50px-Matlab_Logo.png)
-
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white ! [MATLAB](https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Matlab_Logo.png/40px-Matlab_Logo.png)
 
 # 📊 GitHub Stats:
 <div align="center">
