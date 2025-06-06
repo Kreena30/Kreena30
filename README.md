@@ -29,4 +29,4 @@ Currently pursuing an MSc in Advanced Electronics and Electrical Engineering at 
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Kreena30/Kreena30/output/snake.svg" alt="Snake animation" />
+
