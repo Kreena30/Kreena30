@@ -9,7 +9,7 @@ Currently pursuing an MSc in Advanced Electronics and Electrical Engineering at 
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kreena.desai30@gmail.com) 
 
 # 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white) ![NI Multisim Logo]([https://www.ni.com/etc/designs/ni/ni-logo](https://cdn-1.webcatalog.io/catalog/multisim-live/multisim-live-icon-filled-256.png?v=1714775192633).svg)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white) ![NI Multisim Logo](https://www.ni.com/etc/designs/ni/ni-logo](https://cdn-1.webcatalog.io/catalog/multisim-live/multisim-live-icon-filled-256.png?v=1714775192633).svg)
 
 # 📊 GitHub Stats:
 <div align="center">
