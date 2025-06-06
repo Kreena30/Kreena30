@@ -27,7 +27,5 @@ Currently pursuing an MSc in Advanced Electronics and Electrical Engineering at 
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Kreena30&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-<br clear="both">
 
-<img src="https://raw.githubusercontent.com/Kreena30/Kreena30/output/snake.svg" alt="Snake animation" />
 
