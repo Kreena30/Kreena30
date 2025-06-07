@@ -33,7 +33,8 @@ Currently pursuing an MSc in Advanced Electronics and Electrical Engineering at 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="30" alt="arduino logo"  />
 </div>
 
-![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=matlab&logoColor=white)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="30" alt="chip icon" />
+
 
 
  
