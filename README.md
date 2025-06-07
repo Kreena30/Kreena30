@@ -30,6 +30,8 @@ Currently pursuing an MSc in Advanced Electronics and Electrical Engineering at 
 <img width="12" />
 <img src="https://tinderboxcollective.org/wp-content/uploads/2023/08/tinkercad-logo.png" height="30" alt="tinkerCAD" />
 <img width="12" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/36/Simulink_Logo_%28non-wordmark%29.png" height="30" alt="Simulink" />
+<img width="12" />
 </div>
 
 
