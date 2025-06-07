@@ -15,6 +15,7 @@ Currently pursuing an MSc in Advanced Electronics and Electrical Engineering at 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="30" alt="matlab logo"  />
+  <img width="12" />
   <img src="https://cdn-1.webcatalog.io/catalog/multisim-live/multisim-live-icon-filled-256.png?v=1714775192633" height="30" alt="multisim logo" />
 <img width="12" />
 
