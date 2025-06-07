@@ -20,6 +20,8 @@ Currently pursuing an MSc in Advanced Electronics and Electrical Engineering at 
 <img width="12" />
 <img src="https://media.licdn.com/dms/image/v2/D4D12AQEM9F_-u1OT5Q/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1658763190886?e=2147483647&v=beta&t=aEp72fzTRZC_0EilFbT0wVV2jw6O-Bqt759qLG4pLrw" height="30" alt="multisim logo" />
 <img width="12" />
+<img src="https://static-00.iconduck.com/assets.00/systemverilog-icon-474x512-k06u9utx.png" height="30" alt="multisim logo" />
+<img width="12" />
 </div>
 
 
