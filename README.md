@@ -18,9 +18,17 @@ Currently pursuing an MSc in Advanced Electronics and Electrical Engineering at 
   <img width="12" />
   <img src="https://cdn-1.webcatalog.io/catalog/multisim-live/multisim-live-icon-filled-256.png?v=1714775192633" height="30" alt="multisim logo" />
 <img width="12" />
-<img src="https://media.licdn.com/dms/image/v2/D4D12AQEM9F_-u1OT5Q/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1658763190886?e=2147483647&v=beta&t=aEp72fzTRZC_0EilFbT0wVV2jw6O-Bqt759qLG4pLrw" height="30" alt="multisim logo" />
+<img src="https://media.licdn.com/dms/image/v2/D4D12AQEM9F_-u1OT5Q/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1658763190886?e=2147483647&v=beta&t=aEp72fzTRZC_0EilFbT0wVV2jw6O-Bqt759qLG4pLrw" height="30" alt="assemvly language" />
 <img width="12" />
-<img src="https://static-00.iconduck.com/assets.00/systemverilog-icon-474x512-k06u9utx.png" height="30" alt="multisim logo" />
+<img src="https://static-00.iconduck.com/assets.00/systemverilog-icon-474x512-k06u9utx.png" height="30" alt="verilog" />
+<img width="12" />
+<img src="https://static-00.iconduck.com/assets.00/systemverilog-icon-474x512-k06u9utx.png" height="30" alt="JUCE" />
+<img width="12" />
+<img src="https://static-00.iconduck.com/assets.00/systemverilog-icon-474x512-k06u9utx.png" height="30" alt="cadence" />
+<img width="12" />
+<img src="https://static-00.iconduck.com/assets.00/systemverilog-icon-474x512-k06u9utx.png" height="30" alt="LTSpice" />
+<img width="12" />
+<img src="https://static-00.iconduck.com/assets.00/systemverilog-icon-474x512-k06u9utx.png" height="30" alt="tinkerCAD" />
 <img width="12" />
 </div>
 
