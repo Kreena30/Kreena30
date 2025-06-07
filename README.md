@@ -22,13 +22,13 @@ Currently pursuing an MSc in Advanced Electronics and Electrical Engineering at 
 <img width="12" />
 <img src="https://static-00.iconduck.com/assets.00/systemverilog-icon-474x512-k06u9utx.png" height="30" alt="verilog" />
 <img width="12" />
-<img src="https://static-00.iconduck.com/assets.00/systemverilog-icon-474x512-k06u9utx.png" height="30" alt="JUCE" />
+<img src="https://juce.com/wp-content/uploads/2022/07/JUCE-logo-horiz.svg" height="30" alt="JUCE" />
 <img width="12" />
-<img src="https://static-00.iconduck.com/assets.00/systemverilog-icon-474x512-k06u9utx.png" height="30" alt="cadence" />
+<img src="https://mms.businesswire.com/media/20241015434402/en/2132320/22/Cadence_logo_400x400.jpg" height="30" alt="cadence" />
 <img width="12" />
-<img src="https://static-00.iconduck.com/assets.00/systemverilog-icon-474x512-k06u9utx.png" height="30" alt="LTSpice" />
+<img src="https://www.it.unlv.edu/sites/default/files/styles/250_width/public/sites/default/files/assets/software/logos/ltspice.png?itok=MVgB4Gip" height="30" alt="LTSpice" />
 <img width="12" />
-<img src="https://static-00.iconduck.com/assets.00/systemverilog-icon-474x512-k06u9utx.png" height="30" alt="tinkerCAD" />
+<img src="https://tinderboxcollective.org/wp-content/uploads/2023/08/tinkercad-logo.png" height="30" alt="tinkerCAD" />
 <img width="12" />
 </div>
 
