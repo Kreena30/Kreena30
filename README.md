@@ -27,7 +27,6 @@ Currently pursuing an MSc in Advanced Electronics and Electrical Engineering at 
 <img src="https://bracknellbid.co.uk/wp-content/uploads/2021/01/cadence-design-systems-logo-1024x323.jpg" height="30" alt="cadence" />
 <img width="12" />
 <img src="https://www.it.unlv.edu/sites/default/files/styles/250_width/public/sites/default/files/assets/software/logos/ltspice.png?itok=MVgB4Gip" height="30" alt="LTSpice" />
-<img width="12" />
 <img src="https://tinderboxcollective.org/wp-content/uploads/2023/08/tinkercad-logo.png" height="30" alt="tinkerCAD" />
 <img src="https://upload.wikimedia.org/wikipedia/commons/3/36/Simulink_Logo_%28non-wordmark%29.png" height="30" alt="Simulink" />
 <img width="12" />
