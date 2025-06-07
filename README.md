@@ -35,6 +35,7 @@ Currently pursuing an MSc in Advanced Electronics and Electrical Engineering at 
 
 
 
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=matlab&logoColor=white)
 
 
  
