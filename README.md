@@ -24,7 +24,7 @@ Currently pursuing an MSc in Advanced Electronics and Electrical Engineering at 
 <img width="12" />
 <img src="https://juce.com/wp-content/uploads/2022/07/JUCE-logo-horiz.svg" height="30" alt="JUCE" />
 <img width="12" />
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKqx_P5du4N9m_TyQdh_Chwq5ks7ty9qLsTw&s" height="30" alt="cadence" />
+<img src="https://bracknellbid.co.uk/wp-content/uploads/2021/01/cadence-design-systems-logo-1024x323.jpg" height="30" alt="cadence" />
 <img width="12" />
 <img src="https://www.it.unlv.edu/sites/default/files/styles/250_width/public/sites/default/files/assets/software/logos/ltspice.png?itok=MVgB4Gip" height="30" alt="LTSpice" />
 <img width="12" />
