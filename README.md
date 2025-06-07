@@ -31,6 +31,7 @@ Currently pursuing an MSc in Advanced Electronics and Electrical Engineering at 
 <img src="https://upload.wikimedia.org/wikipedia/commons/3/36/Simulink_Logo_%28non-wordmark%29.png" height="30" alt="Simulink" />
 <img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="30" alt="arduino logo"  />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/embeddedc/embeddedc-original.svg" height="30" alt="embeddedc logo"  />
 </div>
 
 ![Chip Design](https://img.shields.io/static/v1?label=&message=Chip%20Design&color=0076A8&logo=https://your-chip-design-logo-url)
