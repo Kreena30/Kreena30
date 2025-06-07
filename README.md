@@ -32,7 +32,6 @@ Currently pursuing an MSc in Advanced Electronics and Electrical Engineering at 
 <img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="30" alt="arduino logo"  />
 </div>
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white)
 
 
 
