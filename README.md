@@ -35,7 +35,11 @@ Currently pursuing an MSc in Advanced Electronics and Electrical Engineering at 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/embeddedc/embeddedc-original.svg" height="30" alt="embeddedc logo"  />
 </div>
 
-![Chip Design](https://img.shields.io/static/v1?label=&message=Chip%20Design&color=0076A8&logo=https://your-chip-design-logo-url)
+![Chip Design](https://img.shields.io/static/v1?label=&message=Chip%20Design&color=0076A8&logo=https://your-chip-design-logo-url) ![Semiconductor](https://img.shields.io/badge/Semiconductor-0076A8?style=flat-square&logoColor=white) ![VLSI](https://img.shields.io/badge/VLSI-0076A8?style=flat-square&logoColor=white) ![RF Planning](https://img.shields.io/badge/RF%20Planning-0076A8?style=flat-square&logoColor=white) ![Analog Circuit Design](https://img.shields.io/badge/Analog%20Circuit%20Design-0076A8?style=flat-square&logoColor=white) ![Music and Audio Programming](https://img.shields.io/badge/Music%20and%20Audio%20Programming-0076A8?style=flat-square&logo=music&logoColor=white) ![Microcontrollers](https://img.shields.io/badge/Microcontrollers-0076A8?style=flat-square&logoColor=white)
+
+
+
+
 
 
 
