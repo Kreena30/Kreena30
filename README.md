@@ -33,7 +33,8 @@ Currently pursuing an MSc in Advanced Electronics and Electrical Engineering at 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="30" alt="arduino logo"  />
 </div>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="30" alt="chip icon" />
+![Chip Design](https://img.shields.io/static/v1?label=&message=Chip%20Design&color=0076A8&logo=https://your-chip-design-logo-url)
+
 
 
 
