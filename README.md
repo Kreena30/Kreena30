@@ -10,7 +10,7 @@ Currently pursuing an MSc in Advanced Electronics and Electrical Engineering at 
 
 # 💻 Skills and Tools:  
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="20" width="20" alt="c logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" width="30" alt="c logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="22" width="22" alt="cplusplus logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="22" width="22" alt="matlab logo" />
   <img src="https://cdn-1.webcatalog.io/catalog/multisim-live/multisim-live-icon-filled-256.png?v=1714775192633" height="22" width="22" alt="multisim logo" />
