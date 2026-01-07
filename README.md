@@ -29,11 +29,7 @@ Currently pursuing an MSc in Advanced Electronics and Electrical Engineering at 
 
 ![Chip Design](https://img.shields.io/badge/Chip%20Design-FF8C00?style=flat-square&logoColor=white) ![Semiconductor](https://img.shields.io/badge/Semiconductor-4169E1?style=flat-square&logoColor=white) ![VLSI](https://img.shields.io/badge/VLSI-9932CC?style=flat-square&logoColor=white) ![RF Planning](https://img.shields.io/badge/RF%20Planning-8A2BE2?style=flat-square&logoColor=white) ![Analog Circuit Design](https://img.shields.io/badge/Analog%20Circuit%20Design-FF7F50?style=flat-square&logoColor=white) ![Music and Audio Programming](https://img.shields.io/badge/Music%20and%20Audio%20Programming-FF69B4?style=flat-square&logo=music&logoColor=white) ![Microcontrollers](https://img.shields.io/badge/Microcontrollers-32CD32?style=flat-square&logoColor=white) 
 
-# 📊 GitHub Stats:
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kreena30&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Kreena30&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+
 
 
 
