@@ -1,5 +1,5 @@
 # Hi, I'm Kreena Desai, an Electronics Engineer :
-Currently pursuing an MSc in Advanced Electronics and Electrical Engineering at Queen Mary, University of London. I am an **Electronics Engineer** with a strong passion for chip designing, semiconductors, and VLSI. My experience spans across analog and RF circuit design, embedded systems, and microcontrollers. I enjoy working on integrated system development and exploring the latest advancements in electronics and semiconductor technology. 
+**Electronics and communication engineer** with experience in **chip design, system integration, and simulation using Cadence** and embedded programming. Skilled in **system architecture, signal analysis, and debugging** complex technical systems with strong analytical and problem-solving abilities. Demonstrated ability to collaborate across technical teams and deliver high-quality engineering solutions
 
 ## 📄 Resume:
 [Resume](KreenaDesai_Resume.pdf)
