@@ -2,7 +2,7 @@
 **Electronics and communication engineer** with experience in **chip design, system integration, and simulation using Cadence** and embedded programming. Skilled in **system architecture, signal analysis, and debugging** complex technical systems with strong analytical and problem-solving abilities. Demonstrated ability to collaborate across technical teams and deliver high-quality engineering solutions
 
 ## 📄 Resume:
-[Resume](KreenaDesai_Resume.pdf)
+[Resume](KreenaResume_India.pdf)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kreena-desai/)
